@@ -1,0 +1,122 @@
+text,verification_ssl,deceptive,domain_another_project,cli,domain_error(like 404)
+invalid ssl cerificate,1,0,0,0,0
+my site has no ssl,1,0,0,0,0
+i get verification error verification,1,0,0,0,0
+ssl error on custom domain ,1,0,0,0,0
+invalid ssl cerificate,1,0,0,0,0
+i get  ssl error ssl,1,0,0,0,0
+i get  ssl error,1,0,0,0,0
+i get  ssl error,1,0,0,0,0
+i get ssl error ssl,1,0,0,0,0
+ssl error ssl,1,0,0,0,0
+i added my domain name 3 days ago and still dont have valid ssl certificate,1,0,0,0,0
+certificate error,1,0,0,0,0
+ssl error ssl,1,0,0,0,0
+no ssl ,1,0,0,0,0
+invalid ssl cerificate,1,0,0,0,0
+needs setup,1,0,0,0,0
+my domain status is need setup need setup,1,0,0,0,0
+my custom domain is not working,1,0,0,0,0
+website unreachable,0,0,0,0,1
+i cannot reach my custom domain,0,0,0,0,1
+It seems like my domain setup stuck at needs setup need setup,1,0,0,0,0
+problerm with dns records,1,0,0,0,0
+a records problem,1,0,0,0,0
+dns problem,1,0,0,0,0
+custom domain problem,1,0,0,0,0
+Unable to add domain. It may already be registered to another project,0,0,1,0,0
+domain is already in use,0,0,1,0,0
+domain to another project ,0,0,1,0,0
+cannot add domain error about registered to another project,0,0,1,0,0
+domain assigned to another project,0,0,1,0,0
+I cannot add subdomain,1,0,0,0,0
+problem adding subdomain,1,0,0,0,0
+I try to deploy my site and I get an error,0,0,0,1,0
+deployment error in the deployment,0,0,0,1,0
+i get a deployment error deployment error,0,0,0,1,0
+cli error cli error,0,0,0,1,0
+While Deploying web app it shows task failed deploying,0,0,0,1,0
+While Deploying web app it shows task failed deploying,0,0,0,1,0
+While Deploying web app it shows task failed deploying,0,0,0,1,0
+problem while deploying,0,0,0,1,0
+problem while deploying,0,0,0,1,0
+problem while deploying,0,0,0,1,0
+problem while deploying,0,0,0,1,0
+deployment error,0,0,0,1,0
+deploy error,0,0,0,1,0
+deploy error,0,0,0,1,0
+i try to deploy my site and i get an error,0,0,0,1,0
+i try to deploy my site and i get an error,0,0,0,1,0
+i try to deploy my site and i get an error,0,0,0,1,0
+cli i get an error on cli,0,0,0,1,0
+cli i get an error on cli,0,0,0,1,0
+cli i get an error on cli,0,0,0,1,0
+i get an error on cli ,0,0,0,1,0
+deploy,0,0,0,1,0
+deploy,0,0,0,1,0
+deploy,0,0,0,1,0
+deploy,0,0,0,1,0
+deploy,0,0,0,1,0
+deployment,0,0,0,1,0
+deployment,0,0,0,1,0
+deployment,0,0,0,1,0
+deployment,0,0,0,1,0
+i face deployment error,0,0,0,1,0
+deployment error,0,0,0,1,0
+error 404,0,0,0,0,1
+site not found,0,0,0,0,1
+I cannot see my website,0,0,0,0,1
+i cannot see the content ,0,0,0,0,1
+website is not updated,0,0,0,0,1
+another project,0,0,1,0,0
+registered to another project,0,0,1,0,0
+Unable to add domain. It may already be registered to another project,0,0,1,0,0
+I cannot connect my custom domain,1,0,0,0,0
+I can't add my custom domain name,1,0,0,0,0
+cannot add custom domain,1,0,0,0,0
+can't add custom domain,1,0,0,0,0
+cannot add custom domain,1,0,0,0,0
+cannot add domain,1,0,0,0,0
+can't add domain,1,0,0,0,0
+my site marked as dangerous,0,1,0,0,0
+deceptive,0,1,0,0,0
+the site ahead contains malware,0,1,0,0,0
+dangerous,0,1,0,0,0
+deceptive,0,1,0,0,0
+my site marked as dangerous,0,1,0,0,0
+my site marked as dangerous,0,1,0,0,0
+my site marked as dangerous,0,1,0,0,0
+my site has been marked as dangerous,0,1,0,0,0
+my site has been marked as dangerous,0,1,0,0,0
+the site ahead contains malware,0,1,0,0,0
+the site ahead contains malware,0,1,0,0,0
+the site ahead contains malware,0,1,0,0,0
+the site ahead contains malware,0,1,0,0,0
+my domain has been marked as dangerous,0,1,0,0,0
+my domain has been marked as dangerous,0,1,0,0,0
+my domain has been marked as dangerous,0,1,0,0,0
+error 404,0,0,0,0,1
+error 404,0,0,0,0,1
+error 404,0,0,0,0,1
+error 404,0,0,0,0,1
+site not found,0,0,0,0,1
+site not found,0,0,0,0,1
+site not found,0,0,0,0,1
+site not found,0,0,0,0,1
+site not found,0,0,0,0,1
+my site shows site not found,0,0,0,0,1
+my domain shows site not found,0,0,0,0,1
+my domain shows site not found not found,0,0,0,0,1
+
+
+
+
+
+
+
+
+
+
+
+
+
