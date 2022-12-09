@@ -16,7 +16,7 @@ credentials = service_account.Credentials.from_service_account_file(
 # Use the credentials object to authenticate a Requests session.
 authed_session = AuthorizedSession(credentials)
 response = authed_session.get(
-    "https://ftool-2ebc1-default-rtdb.firebaseio.com/users/ada/name.json")
+    "https://databaseinstance.firebaseio.com/users/ada/name.json")
 
 # Or, use the token directly, as described in the "Authenticate with an
 # access token" section below. (not recommended)
