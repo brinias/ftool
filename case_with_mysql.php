@@ -695,7 +695,6 @@ echo '</div>';
 echo '<div id="" class="tabcontent">';
 
 
-// file_get_contents('https://fortitude.gr/');
 echo '</div>';
 
 
