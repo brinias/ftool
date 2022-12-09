@@ -225,7 +225,7 @@ function deceptive() {
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => "https://safebrowsing.googleapis.com/v4/threatMatches:find?key=AIzaSyAcVg5-mi1t0-aHxL5uC_l0Hx3z8q38dXo",
+  CURLOPT_URL => "https://safebrowsing.googleapis.com/v4/threatMatches:find?key=-KEYXXX",
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
   CURLOPT_MAXREDIRS => 10,
